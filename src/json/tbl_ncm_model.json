@@ -1,15 +1,15 @@
 {
-    "Data_Ultima_Atualizacao_NCM":"Vigente em 24/08/2026",
-    "Ato":"Resolução Gecex nº 926/2026",
+    "Data_Ultima_Atualizacao_NCM":"",
+    "Ato":"",
     "Nomenclaturas":[
         {
-            "Codigo":"01",
-            "Descricao":"Animais vivos.",
-            "Data_Inicio":"01/04/2022",
-            "Data_Fim":"31/12/9999",
-            "Tipo_Ato_Ini":"Res Gecex",
-            "Numero_Ato_Ini":"272",
-            "Ano_Ato_Ini":"2021"
+            "Codigo":"",
+            "Descricao":"",
+            "Data_Inicio":"",
+            "Data_Fim":"",
+            "Tipo_Ato_Ini":"",
+            "Numero_Ato_Ini":"",
+            "Ano_Ato_Ini":""
         }
     ]
 }
